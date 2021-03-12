@@ -1,0 +1,2 @@
+model_checkpoint_path: "dftensor1_wt"
+all_model_checkpoint_paths: "dftensor1_wt"
